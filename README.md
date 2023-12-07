@@ -7,6 +7,5 @@
 
 - 🔭 I’m currently working on OCR Models
 - 🌱 I’m currently learning JavaScript and TypeScript
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about DSA/Machine Learning
 - 😄 Pronouns: He/Him
