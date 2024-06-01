@@ -5,7 +5,7 @@
 
 -->
 
-- 🔭 I’m currently working on OCR Models
-- 🌱 I’m currently learning JavaScript and TypeScript
-- 💬 Ask me about DSA/Machine Learning
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on ML, DeepLearning, LLM's
+- 🌱 I’m currently learning DeepLearning
+- 💬 Ask me about DSA and Machine learning
+- 📭 Email: shashwatp011@gmail.com
