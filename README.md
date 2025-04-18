@@ -1,5 +1,9 @@
+
+
 # 💫 About Me:
-🔭 I’m currently working on Fine Tuning LLM's <br>🌱 I’m currently learning RAG, Deep Learning Neural Nets<br>💬 Ask me about Data Science, AI/ML, Python<br>
+🔭 Working on the exciting field of Fine-tuning Large Language Models.<br>
+🌱 Diving deeper into Retrieval-Augmented Generation (RAG) and Deep Learning Neural Networks.<br>
+💬 Happy to chat about Data Science, AI/ML, and Python. Ask away!<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NeuralNomad081&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
